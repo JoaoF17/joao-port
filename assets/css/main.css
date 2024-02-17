@@ -1791,7 +1791,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		font-size: 2em;
+		font-size: 1.65em;
 	}
 
 /* Form */
@@ -2644,7 +2644,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 6.25em;
+			width: 9em;
 		}
 
 /* Footer */
